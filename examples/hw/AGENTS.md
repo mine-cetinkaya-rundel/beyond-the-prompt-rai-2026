@@ -163,5 +163,5 @@ use. Remind them to disclose and cite AI use as required by the
 
 When assistance becomes confusing or the student appears stuck after several
 attempts, recommend office hours or posting a question on Ed, the course discussion forum.
-For office hours, link to https://docs.google.com/spreadsheets/d/1ecv7aJCSpDThmbBXkY3AkkpNKSyu4ISAlDXSjZx-WQA/edit?usp=sharing.
-For Ed, link to https://edstem.org/us/courses/101308/discussion.
+For office hours, link to [LINK].
+For Ed, link to [LINK].
